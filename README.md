@@ -13,7 +13,7 @@ I'm Davi, a software developer from Brazil, Linux user and open source enthusias
 </div><br>
 
 ## 🚀 Main projects 
-- [Web Learning Platform](https://github.com/DaviR-D/GeradorWeb) - Online tool for teachers to create customizable assignments for students using premade question templates.
+- [Web Learning Platform](https://github.com/DaviR-D/GeradorWeb) - Gamified online tool for teachers to create customizable assignments for students using premade question templates.
 - [Learning Desktop App](https://github.com/DaviR-D/PIBIS_PIBEX) - The Linux app version of the learning platform.
 - [WallChanger](https://github.com/DaviR-D/WallChanger) - Simple app for automatic background change on Gnome Shell.
 - [CompBV](https://github.com/DaviR-D/CompBV) - Simple app for backup verification and folder sync.
